@@ -1,6 +1,6 @@
 {
   "name": "string-includer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Include subfile from link",
   "repository": "git@github.com:DKunin/string-includer.git",
   "main": "index.js",
