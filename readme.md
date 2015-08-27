@@ -16,8 +16,7 @@
 
   var stringinclude = require('string-includer');
   var cont = fs.readFileSync('./test/test.html');
-  var newstring = stringinclude(cont,'./test')
-
+  var newstring = stringinclude(cont,'./test');
 
 ```
 
