@@ -1,0 +1,18 @@
+{
+  "name": "string-includer",
+  "version": "1.0.0",
+  "description": "Include subfile from link",
+  "repository": "git@github.com:DKunin/string-includer.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.17.1"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
